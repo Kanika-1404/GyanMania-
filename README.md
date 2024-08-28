@@ -22,4 +22,4 @@ Join our vibrant community to connect with like-minded individuals, share insigh
 
 ## Developers:
 * Kanika Chauarsia- IIIT Naya Raipur, CSE'26
-* Vaibhav Jaiswal- BIT Mesra, Mechanical Engineering'27
+* [Vaibhav Jaiswal](https://github.com/vaibhavjais625)- BIT Mesra, Mechanical Engineering'27
