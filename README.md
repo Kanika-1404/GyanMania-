@@ -6,4 +6,4 @@ Download these valuable resources in PDF format for convenient offline access an
 Join our vibrant community to connect with like-minded individuals, share insights, and collaborate on learning projects. Gyanmania is your ultimate last moment tuitions and destination for academic excellence and coding know-how. Unlock your potential with Gyanmania today!
 
 ## You can access it by clicking here: 
-![gyanmania.com](https://gyanmania.in/)
+[gyanmania.com](https://gyanmania.in/)
