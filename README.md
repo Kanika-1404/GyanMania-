@@ -7,3 +7,19 @@ Join our vibrant community to connect with like-minded individuals, share insigh
 
 ## You can access it by clicking here: 
 [gyanmania.com](https://gyanmania.in/)
+
+## Our Platform has Resources of:
+* IIIT Naya Raipur
+* BIT Mesra
+* NIT Raipur
+* NIT Allahabad
+
+## Technology Used:
+* HTML
+* CSS
+* JavaScript
+* NodeJS
+
+## Developers:
+* Kanika Chauarsia- IIIT Naya Raipur, CSE'26
+* Vaibhav Jaiswal- BIT Mesra, Mechanical Engineering'27
